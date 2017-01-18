@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LambdaLauncherHelper",
+  "name": "LambdaLauncherHelper",
+  "description": "LambdaLauncherHelper",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cyl18"],
+  "credits": "Cyl18",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
